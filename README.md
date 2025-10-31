@@ -1,0 +1,1 @@
+This project is about extracting data from a source ,loading data in data frames,cleaning and preprocessing the data ,pushing the data in mysql,loading from sql with queries and building  dashboards for insights.
